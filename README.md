@@ -20,7 +20,7 @@
   - `pip install -r requirements.txt` 
 
 ### Run Test
-1. Launch Appium Server `appium` default 4723
+1. Launch Appium Server `appium -p 4724`
 2. Run 
    ```
    python test_SmartBanking.py
